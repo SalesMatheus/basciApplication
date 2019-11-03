@@ -1,2 +1,2 @@
-# basciApplication
+# basicApplication
 Full Stack Application
